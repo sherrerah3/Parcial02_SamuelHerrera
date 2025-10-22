@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+
+# Pyenv
+.python-version
+
+# Environments and secrets
+.env
+.env.*
+secrets.json
+
+# VS Code
+.vscode/
+
+# OneDrive temporary files and desktop.ini
+~$*
+desktop.ini
+
+# OS files
+.DS_Store
+Thumbs.db
